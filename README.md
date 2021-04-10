@@ -5,7 +5,7 @@ Above files contains our implementation of code, for game "Tetris".
 <br>
 <br>
 
-File 'TetrisConsole.c' is a quick demonstration of how our game should works. Feel free to compile it even via one of the online compilers and have a fun playing!
+File 'TetrisConsole.c' is a quick demonstration of how our game should works. Feel free to compile it even via one of the online compilers and have fun playing!
 
 File 'TetrisAtmega.c' contains full code ready to be deployed at ATmega328P-PU. 
 
