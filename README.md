@@ -12,7 +12,7 @@ File 'TetrisAtmega.c' contains full code ready to be deployed at ATmega328P-PU.
 <h3>
 About the code and components:
 </h3>
-As a team of a good frends with similar passion,  we wanted to make a quick and small project to test our skills with programming and electronics. We wanted to create a code which would be fast and take as little space as possible, so we decided that instead take a easy way by writting this code on two dimensional arrays we wrote it with use of registers.
+As a team of a good frends with similar passion, our goal was to make a quick and small project to test our skills with programming and electronics. We wanted to create a code which would be fast and take as little space as possible, so we decided that instead take a easy way by writting this code on two dimensional arrays, we wrote it with use of registers.
 
 It was quite an expirience mainly because we had a hard time with our displays which we had to change 2 times, due to their factory defects. However, at the end we are pride from the results (even that we have to change the display the 3rd time). 
 
