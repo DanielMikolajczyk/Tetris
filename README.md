@@ -18,7 +18,9 @@ It was quite an expirience mainly because we had a hard time with our displays w
 The result as a 30 seconds video, you can check out here:
 https://drive.google.com/drive/folders/1RKZqrVrHbbj9qmr_OgO3PAe3_zUyub1Q?usp=sharing
 
+<h3>
 Authors:
+</h3>
 Krzysztof Gałowicz
 <br>
 Jakub Zimnol
