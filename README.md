@@ -3,6 +3,7 @@ Tetris
 </h1>
 Above files contains our implementation of code, for game "Tetris". 
 <br>
+<br>
 
 File 'TetrisConsole.c' is a quick demonstration of how our game should works. Feel free to compile it even via one of the online compilers and have a fun playing!
 
