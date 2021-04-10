@@ -1,5 +1,6 @@
+<h1>
 Tetris
-
+</h1>
 Above files contains our implementation of code, for game "Tetris". 
 
 File 'TetrisConsole.c' is a quick demonstration of how our game should works. Feel free to compile it even via one of the online compilers and have a fun playing!
@@ -16,7 +17,7 @@ The result as a 30 seconds video, you can check out here:
 https://drive.google.com/drive/folders/1RKZqrVrHbbj9qmr_OgO3PAe3_zUyub1Q?usp=sharing
 
 Authors:
->Krzysztof Gałowicz
->Jakub Zimnol
->Marcin Maj
->Daniel Mikołajczyk
+Krzysztof Gałowicz
+Jakub Zimnol
+Marcin Maj
+Daniel Mikołajczyk
